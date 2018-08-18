@@ -1,0 +1,1 @@
+include ':app', ':junit-4.12', ':hamcrest-core-1.3', ':lib', ':json-20160212', ':gson-2.6.2'
